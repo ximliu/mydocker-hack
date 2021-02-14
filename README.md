@@ -16,7 +16,7 @@
 
 ### 1）拉取本项目相关文件
 ```
-git clone https://github.com/fejich/docker-embyhack.git && cd docker-embyhack
+git clone https://github.com/ximliu/docker-embyhack.git && cd docker-embyhack
 ```
 
 
