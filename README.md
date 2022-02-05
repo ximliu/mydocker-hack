@@ -1,22 +1,7 @@
-# 思路
-
-**伪造一个 emby 授权响应网站，瞒骗 emby 服务端程序取得 Emby Premiere 资格**
-
-具体原理分析查阅：https://imrbq.cn/exp/emby_hack.html
-
-本项目是按文章所述方法，使用 Docker Compose 编排整合
-以实现简单一键部署
-
-<img src="https://github.com/fejich/docker-embyhack/raw/main/working.jpg">
-
----
-
-# 使用方法
-
 
 ### 1）拉取本项目相关文件
 ```
-git clone https://github.com/ximliu/mydocker-embyhack.git && cd docker-embyhack
+git clone https://github.com/ximliu/mydocker-hack.git && cd docker-embyhack
 ```
 
 
